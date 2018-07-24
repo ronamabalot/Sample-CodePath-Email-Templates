@@ -2,7 +2,7 @@
 
 #### Subject: You're selected to join the iOS course in {university}
 
-Hi{first name},
+Hi {first name},
 
 Thanks for applying to our Facebook backed iOS course for Fall 2018. You have been selected to join the iOS course on campus which will run from August to October 2018.
 
