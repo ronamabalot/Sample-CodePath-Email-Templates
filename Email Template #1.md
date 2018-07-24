@@ -10,7 +10,7 @@ Please let me know if you have any questions.
 
 We are excited to have you onboard!
 
-Best,
-Rona
-**iOS Course Coordinator**
+Best,<br>
+Rona<br>
+**iOS Course Coordinator**<br>
 rona@codepath.org
